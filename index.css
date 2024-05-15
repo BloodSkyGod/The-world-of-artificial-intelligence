@@ -354,7 +354,7 @@ footer p {
 
 .sad{
      max-width: 80%;
-     background-color: #fff;
+     background-color: #1b1b1c;
      margin-left: 10%;
      margin-right: 10%;
      border: 2px solid #D7A152;
@@ -362,6 +362,7 @@ footer p {
     margin-bottom: 1%;
     margin-top: 1%;
     padding: 2%;
+   
  }
 
  .form-wrap {
