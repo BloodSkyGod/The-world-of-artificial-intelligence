@@ -30,7 +30,7 @@ body{
 }
 
  .body1-01{
-  background: url(image/fon.jpg) center center no-repeat;
+  background: url(fon.jpg) center center no-repeat;
   background-size: cover;
   padding: 75px 0 145px 0;
  }
